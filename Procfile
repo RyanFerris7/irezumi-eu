@@ -1,0 +1,1 @@
+web: gunicorn irezumi_eu_project.wsgi
